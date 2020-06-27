@@ -34,9 +34,9 @@ Run add.(sh/bat) depending on your OS and follow prompts.  Typing `exit` for an 
 
 Every item must be in a location, but your location can also be an item.  For example, let's say you have a `hammer` located in bin `B1`, so you add the hammer item as such.  If you then add `B1` as an item itself, you can specify _it's_ location in the `Attic`.  Adopting your own nested location scheme will allow you to find anything globally in a consistent way.  Future versions of this tool will figure out the entire location hierarchy so this nesting pattern is highly encouraged.
 
-### Tip 2: Enter in similar batches to go faster with autocomplete
+### Tip 2: Add similar items in batches to go faster with autocomplete
 
-If certain patterns reoccur across multiple item entires (such as locations `B1`, then `B2`), you may get pre-filled name and location suggestions (such as `B3`).  Press nothing but enter when appropriate to accept suggestions and zoom through data entry.
+If certain patterns reoccur across multiple item entries (such as locations `B1`, then `B2`), you may get pre-filled name and location suggestions (such as `B3`).  Press nothing but enter when appropriate to accept suggestions and zoom through data entry.
 
 ## Tip 3: Backup your inventory record
 
